@@ -1,0 +1,8 @@
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsApp112311.csproj.AssemblyReference.cache
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsPraktika.AdminForm.resources
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsPraktika.LoginForm.resources
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsApp112311.csproj.GenerateResource.cache
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsApp112311.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsApp112311.AssemblyInfoInputs.cache
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsApp112311.AssemblyInfo.cs
+C:\Users\Darbo\source\repos\WinFormsApp1123211\WinFormsApp1123211\obj\Debug\net8.0-windows\WinFormsApp112311.csproj.CoreCompileInputs.cache
